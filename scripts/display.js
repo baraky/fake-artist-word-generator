@@ -1,10 +1,8 @@
 const minHeightShortest = 720;
-    const minHeightShorter = 730;
-    const minHeightShort = 750;
+const minHeightShorter = 730;
+const minHeightShort = 750;
 
-$(document).ready(function () {
-    
-
+$(document).ready(() => {
     displayHeightSensibleElements()
 
     $(window).resize(displayHeightSensibleElements);

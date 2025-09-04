@@ -8,16 +8,14 @@ switch(lang){
     case "fr":
     case "es":
     case "tr":
+    case "sv":
         break;
     default:
         lang = "en"
 }
 
-
-var i18n = $.i18n({"locale": lang});
-var language = i18n.locale;
-
-
+const i18n = $.i18n({"locale": lang});
+const language = i18n.locale;
 
 $(document).ready(function(){
     i18n.load({
@@ -25,7 +23,8 @@ $(document).ready(function(){
         "en": "i18n/en.json",
         "es": "i18n/es.json",
         "tr": "i18n/tr.json",
-        "fr": "i18n/fr.json"
+        "fr": "i18n/fr.json",
+        "sv": "i18n/sv.json"
     }).done(function(){
         $("body").i18n();
         document.title = $.i18n("page-title");

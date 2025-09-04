@@ -15,7 +15,7 @@ switch(lang){
 }
 
 const i18n = $.i18n({"locale": lang});
-const language = i18n.locale;
+let language = i18n.locale;
 
 $(document).ready(function(){
     i18n.load({

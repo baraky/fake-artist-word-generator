@@ -72,7 +72,7 @@ $("#generateGame").on("click", function () {
     if(showWordCategory){
         $("#category").text(category);
         $(".word-category-visible").removeClass("d-none");
-    }else{
+    } else{
         $(".word-category-visible").addClass("d-none");
     }
 
@@ -84,6 +84,7 @@ $("#showWord").on("click", function () {
         || $(this).text() === i18n.messageStore.get("en", "game-show-word")
         || $(this).text() === i18n.messageStore.get("es", "game-show-word")
         || $(this).text() === i18n.messageStore.get("fr", "game-show-word")
+        || $(this).text() === i18n.messageStore.get("sv", "game-show-word")
         || $(this).text() === i18n.messageStore.get("tr", "game-show-word")) {
         $("#next-player").hide();
         $("#word").removeClass("text-bg-danger");

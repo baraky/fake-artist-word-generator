@@ -9,6 +9,7 @@ switch(lang){
     case "es":
     case "tr":
     case "sv":
+    case "pt":
         break;
     default:
         lang = "en"
@@ -24,7 +25,8 @@ $(document).ready(function(){
         "es": "i18n/es.json",
         "tr": "i18n/tr.json",
         "fr": "i18n/fr.json",
-        "sv": "i18n/sv.json"
+        "sv": "i18n/sv.json",
+        "pt": "i18n/en.json"
     }).done(function(){
         $("body").i18n();
         document.title = $.i18n("page-title");

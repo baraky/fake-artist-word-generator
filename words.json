@@ -6,7 +6,8 @@
             "es": "Vaca",
             "fr": "Vache",
             "tr": "\u0130nek",
-            "sv": "Ko"
+            "sv": "Ko",
+            "pt": "Vaca"
         },
         "category": {
             "de": "Tiere",
@@ -14,7 +15,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -24,7 +26,8 @@
             "es": "Elefante",
             "fr": "\u00c9l\u00e9phant",
             "tr": "Fil",
-            "sv": "Elefant"
+            "sv": "Elefant",
+            "pt": "Elefante"
         },
         "category": {
             "de": "Tiere",
@@ -32,7 +35,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -42,7 +46,8 @@
             "es": "Manzana",
             "fr": "Pomme",
             "tr": "Elma",
-            "sv": "\u00c4pple"
+            "sv": "\u00c4pple",
+            "pt": "Maçã"
         },
         "category": {
             "de": "Essen",
@@ -50,7 +55,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -60,7 +66,8 @@
             "es": "Banana",
             "fr": "Banane",
             "tr": "Muz",
-            "sv": "Banan"
+            "sv": "Banan",
+            "pt": "Banana"
         },
         "category": {
             "de": "Essen",
@@ -68,7 +75,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -78,7 +86,8 @@
             "es": "Pizza",
             "fr": "Pizza",
             "tr": "Pizza",
-            "sv": "Pizza"
+            "sv": "Pizza",
+            "pt": "Pizza"
         },
         "category": {
             "de": "Essen",
@@ -86,7 +95,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -96,7 +106,8 @@
             "es": "Zanahoria",
             "fr": "Carotte",
             "tr": "Havu\u00e7",
-            "sv": "Morot"
+            "sv": "Morot",
+            "pt": "Cenoura"
         },
         "category": {
             "de": "Essen",
@@ -104,7 +115,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -114,7 +126,8 @@
             "es": "Avi\u00f3n",
             "fr": "Avion",
             "tr": "U\u00e7ak",
-            "sv": "Flygplan"
+            "sv": "Flygplan",
+            "pt": "Avião"
         },
         "category": {
             "de": "Transport",
@@ -122,7 +135,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -132,7 +146,8 @@
             "es": "Auto",
             "fr": "Voiture",
             "tr": "Araba",
-            "sv": "Bil"
+            "sv": "Bil",
+            "pt": "Carro"
         },
         "category": {
             "de": "Transport",
@@ -140,7 +155,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -150,7 +166,8 @@
             "es": "Tren",
             "fr": "Former",
             "tr": "Tren",
-            "sv": "T\u00e5g"
+            "sv": "T\u00e5g",
+            "pt": "Trem"
         },
         "category": {
             "de": "Transport",
@@ -158,7 +175,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -168,7 +186,8 @@
             "es": "Barco",
             "fr": "Bateau",
             "tr": "Gemi",
-            "sv": "Fartyg"
+            "sv": "Fartyg",
+            "pt": "Navio"
         },
         "category": {
             "de": "Transport",
@@ -176,7 +195,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -186,7 +206,8 @@
             "es": "Casa",
             "fr": "Maison",
             "tr": "Ev",
-            "sv": "Hush\u00e5ll"
+            "sv": "Hush\u00e5ll",
+            "pt": "Casa"
         },
         "category": {
             "de": "Geb\u00e4ude",
@@ -194,7 +215,8 @@
             "es": "Edificios",
             "fr": "B\u00e2timents",
             "tr": "Binalar",
-            "sv": "Byggnader"
+            "sv": "Byggnader",
+            "pt": "Construções"
         }
     },
     {
@@ -204,7 +226,8 @@
             "es": "Escuela",
             "fr": "\u00c9cole",
             "tr": "Okul",
-            "sv": "Skola"
+            "sv": "Skola",
+            "pt": "Escola"
         },
         "category": {
             "de": "Geb\u00e4ude",
@@ -212,7 +235,8 @@
             "es": "Edificios",
             "fr": "B\u00e2timents",
             "tr": "Binalar",
-            "sv": "Byggnader"
+            "sv": "Byggnader",
+            "pt": "Construções"
         }
     },
     {
@@ -222,7 +246,8 @@
             "es": "Iglesia",
             "fr": "\u00c9glise",
             "tr": "Kilise",
-            "sv": "Kyrka"
+            "sv": "Kyrka",
+            "pt": "Igreja"
         },
         "category": {
             "de": "Geb\u00e4ude",
@@ -230,7 +255,8 @@
             "es": "Edificios",
             "fr": "B\u00e2timents",
             "tr": "Binalar",
-            "sv": "Byggnader"
+            "sv": "Byggnader",
+            "pt": "Construções"
         }
     },
     {
@@ -240,7 +266,8 @@
             "es": "Hospital",
             "fr": "H\u00f4pital",
             "tr": "Hastane",
-            "sv": "Sjukhus"
+            "sv": "Sjukhus",
+            "pt": "Hospital"
         },
         "category": {
             "de": "Geb\u00e4ude",
@@ -248,7 +275,8 @@
             "es": "Edificios",
             "fr": "B\u00e2timents",
             "tr": "Binalar",
-            "sv": "Byggnader"
+            "sv": "Byggnader",
+            "pt": "Construções"
         }
     },
     {
@@ -258,7 +286,8 @@
             "es": "Le\u00f3n",
             "fr": "Lion",
             "tr": "Aslan",
-            "sv": "Lejon"
+            "sv": "Lejon",
+            "pt": "Leão"
         },
         "category": {
             "de": "Tiere",
@@ -266,7 +295,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -276,7 +306,8 @@
             "es": "Chocolate",
             "fr": "Chocolat",
             "tr": "\u00c7ikolata",
-            "sv": "Choklad"
+            "sv": "Choklad",
+            "pt": "Chocolate"
         },
         "category": {
             "de": "Essen",
@@ -284,7 +315,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -294,7 +326,8 @@
             "es": "Pan",
             "fr": "Pain",
             "tr": "Ekmek",
-            "sv": "Br\u00f6d"
+            "sv": "Br\u00f6d",
+            "pt": "Pão"
         },
         "category": {
             "de": "Essen",
@@ -302,7 +335,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -312,7 +346,8 @@
             "es": "Bicicleta",
             "fr": "V\u00e9lo",
             "tr": "Bisiklet",
-            "sv": "Cykel"
+            "sv": "Cykel",
+            "pt": "Bicicleta"
         },
         "category": {
             "de": "Transport",
@@ -320,7 +355,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -330,7 +366,8 @@
             "es": "Autob\u00fas",
             "fr": "Bus",
             "tr": "Otob\u00fcs",
-            "sv": "Buss"
+            "sv": "Buss",
+            "pt": "Ônibus"
         },
         "category": {
             "de": "Transport",
@@ -338,7 +375,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -348,7 +386,8 @@
             "es": "Motocicleta",
             "fr": "Moto",
             "tr": "Motosiklet",
-            "sv": "Motorcykel"
+            "sv": "Motorcykel",
+            "pt": "Motocicleta"
         },
         "category": {
             "de": "Transport",
@@ -356,7 +395,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -366,7 +406,8 @@
             "es": "Computadora port\u00e1til",
             "fr": "Ordinateur portable",
             "tr": "Diz\u00fcst\u00fc bilgisayar",
-            "sv": "Laptop"
+            "sv": "Laptop",
+            "pt": "Notebook"
         },
         "category": {
             "de": "Technologie",
@@ -374,7 +415,8 @@
             "es": "Tecnolog\u00eda",
             "fr": "Technologie",
             "tr": "Teknoloji",
-            "sv": "Teknologi"
+            "sv": "Teknologi",
+            "pt": "Tecnologia"
         }
     },
     {
@@ -384,7 +426,8 @@
             "es": "Tel\u00e9fono inteligente",
             "fr": "Smartphone",
             "tr": "Ak\u0131ll\u0131 telefon",
-            "sv": "Mobiltelefon"
+            "sv": "Mobiltelefon",
+            "pt": "Celular"
         },
         "category": {
             "de": "Technologie",
@@ -392,7 +435,8 @@
             "es": "Tecnolog\u00eda",
             "fr": "Technologie",
             "tr": "Teknoloji",
-            "sv": "Teknologi"
+            "sv": "Teknologi",
+            "pt": "Tecnologia"
         }
     },
     {
@@ -402,7 +446,8 @@
             "es": "C\u00e1mara",
             "fr": "Cam\u00e9ra",
             "tr": "Kamera",
-            "sv": "Kamera"
+            "sv": "Kamera",
+            "pt": "Câmera"
         },
         "category": {
             "de": "Technologie",
@@ -410,7 +455,8 @@
             "es": "Tecnolog\u00eda",
             "fr": "Technologie",
             "tr": "Teknoloji",
-            "sv": "Teknologi"
+            "sv": "Teknologi",
+            "pt": "Tecnologia"
         }
     },
     {
@@ -420,7 +466,8 @@
             "es": "Televisi\u00f3n",
             "fr": "T\u00e9l\u00e9vision",
             "tr": "Televizyon",
-            "sv": "Television"
+            "sv": "Television",
+            "pt": "Televisão"
         },
         "category": {
             "de": "Technologie",
@@ -428,7 +475,8 @@
             "es": "Tecnolog\u00eda",
             "fr": "Technologie",
             "tr": "Teknoloji",
-            "sv": "Teknologi"
+            "sv": "Teknologi",
+            "pt": "Tecnologia"
         }
     },
     {
@@ -438,7 +486,8 @@
             "es": "Sol",
             "fr": "Soleil",
             "tr": "G\u00fcne\u015f",
-            "sv": "Sol"
+            "sv": "Sol",
+            "pt": "Sol"
         },
         "category": {
             "de": "Natur",
@@ -446,7 +495,8 @@
             "es": "Naturaleza",
             "fr": "Nature",
             "tr": "Do\u011fa",
-            "sv": "Natur"
+            "sv": "Natur",
+            "pt": "Natureza"
         }
     },
     {
@@ -456,7 +506,8 @@
             "es": "Luna",
             "fr": "Lune",
             "tr": "Ay",
-            "sv": "M\u00e5ne"
+            "sv": "M\u00e5ne",
+            "pt": "Lua"
         },
         "category": {
             "de": "Natur",
@@ -464,7 +515,8 @@
             "es": "Naturaleza",
             "fr": "Nature",
             "tr": "Do\u011fa",
-            "sv": "Natur"
+            "sv": "Natur",
+            "pt": "Natureza"
         }
     },
     {
@@ -474,7 +526,8 @@
             "es": "\u00c1rbol",
             "fr": "Arbre",
             "tr": "A\u011fa\u00e7",
-            "sv": "Tr\u00e4d"
+            "sv": "Tr\u00e4d",
+            "pt": "Árvore"
         },
         "category": {
             "de": "Natur",
@@ -482,7 +535,8 @@
             "es": "Naturaleza",
             "fr": "Nature",
             "tr": "Do\u011fa",
-            "sv": "Natur"
+            "sv": "Natur",
+            "pt": "Natureza"
         }
     },
     {
@@ -492,7 +546,8 @@
             "es": "Flor",
             "fr": "Fleur",
             "tr": "\u00c7i\u00e7ek",
-            "sv": "Blomma"
+            "sv": "Blomma",
+            "pt": "Flor"
         },
         "category": {
             "de": "Natur",
@@ -500,7 +555,8 @@
             "es": "Naturaleza",
             "fr": "Nature",
             "tr": "Do\u011fa",
-            "sv": "Natur"
+            "sv": "Natur",
+            "pt": "Natureza"
         }
     },
     {
@@ -510,7 +566,8 @@
             "es": "Auto",
             "fr": "Voiture",
             "tr": "Araba",
-            "sv": "Bil"
+            "sv": "Bil",
+            "pt": "Carro"
         },
         "category": {
             "de": "Transport",
@@ -518,7 +575,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -528,7 +586,8 @@
             "es": "Tranv\u00eda",
             "fr": "Tram",
             "tr": "Tramvay",
-            "sv": "Sp\u00e5rvagn"
+            "sv": "Sp\u00e5rvagn",
+            "pt": "Bonde"
         },
         "category": {
             "de": "Transport",
@@ -536,7 +595,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -546,7 +606,8 @@
             "es": "Cami\u00f3n",
             "fr": "Camion",
             "tr": "Kamyon",
-            "sv": "Lastbil"
+            "sv": "Lastbil",
+            "pt": "Caminhão"
         },
         "category": {
             "de": "Transport",
@@ -554,7 +615,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -564,7 +626,8 @@
             "es": "Helic\u00f3ptero",
             "fr": "H\u00e9licopt\u00e8re",
             "tr": "Helikopter",
-            "sv": "Helikopter"
+            "sv": "Helikopter",
+            "pt": "Helicóptero"
         },
         "category": {
             "de": "Transport",
@@ -572,7 +635,8 @@
             "es": "Transporte",
             "fr": "Transport",
             "tr": "Ta\u015f\u0131mac\u0131l\u0131k",
-            "sv": "Transport"
+            "sv": "Transport",
+            "pt": "Transporte"
         }
     },
     {
@@ -582,7 +646,8 @@
             "es": "Cama",
             "fr": "Lit",
             "tr": "Yatak",
-            "sv": "S\u00e4ng"
+            "sv": "S\u00e4ng",
+            "pt": "Cama"
         },
         "category": {
             "de": "Haushalt",
@@ -590,7 +655,8 @@
             "es": "Familiar",
             "fr": "M\u00e9nage",
             "tr": "Ev",
-            "sv": "Hush\u00e5ll"
+            "sv": "Hush\u00e5ll",
+            "pt": "Doméstico"
         }
     },
     {
@@ -600,7 +666,8 @@
             "es": "Mesa",
             "fr": "Tableau",
             "tr": "Masa",
-            "sv": "Bord"
+            "sv": "Bord",
+            "pt": "Mesa"
         },
         "category": {
             "de": "Haushalt",
@@ -608,7 +675,8 @@
             "es": "Familiar",
             "fr": "M\u00e9nage",
             "tr": "Ev",
-            "sv": "Hush\u00e5ll"
+            "sv": "Hush\u00e5ll",
+            "pt": "Doméstico"
         }
     },
     {
@@ -618,7 +686,8 @@
             "es": "L\u00e1mpara",
             "fr": "Lampe",
             "tr": "Lamba",
-            "sv": "Lampa"
+            "sv": "Lampa",
+            "pt": "Luminária"
         },
         "category": {
             "de": "Haushalt",
@@ -626,7 +695,8 @@
             "es": "Familiar",
             "fr": "M\u00e9nage",
             "tr": "Ev",
-            "sv": "Hush\u00e5ll"
+            "sv": "Hush\u00e5ll",
+            "pt": "Doméstico"
         }
     },
     {
@@ -636,7 +706,8 @@
             "es": "c\u00e1mping",
             "fr": "camping",
             "tr": "kamp",
-            "sv": "Camping"
+            "sv": "Camping",
+            "pt": "Acampamento"
         },
         "category": {
             "de": "Aktivit\u00e4t",
@@ -644,7 +715,8 @@
             "es": "actividad",
             "fr": "activit\u00e9",
             "tr": "etkinlik",
-            "sv": "Aktivitet"
+            "sv": "Aktivitet",
+            "pt": "Atividade"
         }
     },
     {
@@ -654,7 +726,8 @@
             "es": "frente",
             "fr": "front",
             "tr": "al\u0131n",
-            "sv": "Panna"
+            "sv": "Panna",
+            "pt": "Testa"
         },
         "category": {
             "de": "K\u00f6rper",
@@ -662,7 +735,8 @@
             "es": "anatom\u00eda",
             "fr": "anatomie",
             "tr": "anatomi",
-            "sv": "Anatomi"
+            "sv": "Anatomi",
+            "pt": "Anatomia"
         }
     },
     {
@@ -672,7 +746,8 @@
             "es": "r\u00f3tula",
             "fr": "rotule",
             "tr": "diz kapa\u011f\u0131",
-            "sv": "Kn\u00e4sk\u00e5l"
+            "sv": "Kn\u00e4sk\u00e5l",
+            "pt": "Rótula"
         },
         "category": {
             "de": "K\u00f6rper",
@@ -680,7 +755,8 @@
             "es": "anatom\u00eda",
             "fr": "anatomie",
             "tr": "anatomi",
-            "sv": "Anatomi"
+            "sv": "Anatomi",
+            "pt": "Anatomia"
         }
     },
     {
@@ -690,7 +766,8 @@
             "es": "Bigote",
             "fr": "Moustache",
             "tr": "b\u0131y\u0131k",
-            "sv": "Mustache"
+            "sv": "Mustache",
+            "pt": "Bigode"
         },
         "category": {
             "de": "K\u00f6rper",
@@ -698,7 +775,8 @@
             "es": "anatom\u00eda",
             "fr": "anatomie",
             "tr": "anatomi",
-            "sv": "Anatomi"
+            "sv": "Anatomi",
+            "pt": "Anatomia"
         }
     },
     {
@@ -708,7 +786,8 @@
             "es": "hombro",
             "fr": "\u00e9paule",
             "tr": "omuz",
-            "sv": "Axel"
+            "sv": "Axel",
+            "pt": "Ombro"
         },
         "category": {
             "de": "K\u00f6rper",
@@ -716,7 +795,8 @@
             "es": "anatom\u00eda",
             "fr": "anatomie",
             "tr": "anatomi",
-            "sv": "Anatomi"
+            "sv": "Anatomi",
+            "pt": "Anatomia"
         }
     },
     {
@@ -726,7 +806,8 @@
             "es": "est\u00f3mago",
             "fr": "estomac",
             "tr": "kar\u0131n",
-            "sv": "Magen"
+            "sv": "Magen",
+            "pt": "Estômago"
         },
         "category": {
             "de": "K\u00f6rper",
@@ -734,7 +815,8 @@
             "es": "anatom\u00eda",
             "fr": "anatomie",
             "tr": "anatomi",
-            "sv": "Anatomi"
+            "sv": "Anatomi",
+            "pt": "Anatomia"
         }
     },
     {
@@ -744,7 +826,8 @@
             "es": "delf\u00edn",
             "fr": "dauphin",
             "tr": "yunus",
-            "sv": "Delfin"
+            "sv": "Delfin",
+            "pt": "Golfinho"
         },
         "category": {
             "de": "Tier",
@@ -752,7 +835,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -762,7 +846,8 @@
             "es": "Flamingo",
             "fr": "Flamingo",
             "tr": "Flamingo",
-            "sv": "Flamingo"
+            "sv": "Flamingo",
+            "pt": "Flamingo"
         },
         "category": {
             "de": "Tier",
@@ -770,7 +855,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -780,7 +866,8 @@
             "es": "jirafa",
             "fr": "girafe",
             "tr": "z\u00fcrafa",
-            "sv": "Giraff"
+            "sv": "Giraff",
+            "pt": "Girafa"
         },
         "category": {
             "de": "Tier",
@@ -788,7 +875,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -798,7 +886,8 @@
             "es": "gorila",
             "fr": "gorille",
             "tr": "goril",
-            "sv": "Gorilla"
+            "sv": "Gorilla",
+            "pt": "Gorila"
         },
         "category": {
             "de": "Tier",
@@ -806,7 +895,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -816,7 +906,8 @@
             "es": "H\u00e1mster",
             "fr": "Hamster",
             "tr": "Hamster",
-            "sv": "Hamster"
+            "sv": "Hamster",
+            "pt": "Hamster"
         },
         "category": {
             "de": "Tier",
@@ -824,7 +915,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -834,7 +926,8 @@
             "es": "canguro",
             "fr": "kangourou",
             "tr": "kanguru",
-            "sv": "K\u00e4nguru"
+            "sv": "K\u00e4nguru",
+            "pt": "Canguru"
         },
         "category": {
             "de": "Tier",
@@ -842,7 +935,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -852,7 +946,8 @@
             "es": "lagarto",
             "fr": "l\u00e9zard",
             "tr": "kertenkele",
-            "sv": "\u00d6dla"
+            "sv": "\u00d6dla",
+            "pt": "Lagarto"
         },
         "category": {
             "de": "Tier",
@@ -860,7 +955,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -870,7 +966,8 @@
             "es": "langosta",
             "fr": "homard",
             "tr": "Istakoz",
-            "sv": "Hummer"
+            "sv": "Hummer",
+            "pt": "Lagosta"
         },
         "category": {
             "de": "Tier",
@@ -878,7 +975,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -888,7 +986,8 @@
             "es": "mono",
             "fr": "singe",
             "tr": "maymun",
-            "sv": "Apa"
+            "sv": "Apa",
+            "pt": "Macaco"
         },
         "category": {
             "de": "Tier",
@@ -896,7 +995,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -906,7 +1006,8 @@
             "es": "pulpo",
             "fr": "pieuvre",
             "tr": "ahtapot",
-            "sv": "Bl\u00e4ckfisk"
+            "sv": "Bl\u00e4ckfisk",
+            "pt": "Polvo"
         },
         "category": {
             "de": "Tier",
@@ -914,7 +1015,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -924,7 +1026,8 @@
             "es": "loro",
             "fr": "perroquet",
             "tr": "papa\u011fan",
-            "sv": "Papegoja"
+            "sv": "Papegoja",
+            "pt": "Papagaio"
         },
         "category": {
             "de": "Tier",
@@ -932,7 +1035,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -942,7 +1046,8 @@
             "es": "escorpi\u00f3n",
             "fr": "Scorpion",
             "tr": "akrep",
-            "sv": "Skorpion"
+            "sv": "Skorpion",
+            "pt": "Escorpião"
         },
         "category": {
             "de": "Tier",
@@ -950,7 +1055,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -960,7 +1066,8 @@
             "es": "gaviota",
             "fr": "mouette",
             "tr": "mart\u0131",
-            "sv": "Fiskm\u00e5s"
+            "sv": "Fiskm\u00e5s",
+            "pt": "Gaivota"
         },
         "category": {
             "de": "Tier",
@@ -968,7 +1075,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -978,7 +1086,8 @@
             "es": "caballito de mar",
             "fr": "hippocampe",
             "tr": "denizat\u0131",
-            "sv": "Sj\u00f6h\u00e4st"
+            "sv": "Sj\u00f6h\u00e4st",
+            "pt": "Cavalo-marinho"
         },
         "category": {
             "de": "Tier",
@@ -986,7 +1095,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -996,7 +1106,8 @@
             "es": "ardilla",
             "fr": "\u00e9cureuil",
             "tr": "sincap",
-            "sv": "Ekorre"
+            "sv": "Ekorre",
+            "pt": "Esquilo"
         },
         "category": {
             "de": "Tier",
@@ -1004,7 +1115,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -1014,7 +1126,8 @@
             "es": "tortuga",
             "fr": "tortue",
             "tr": "kaplumba\u011fa",
-            "sv": "Sk\u00f6ldpadda"
+            "sv": "Sk\u00f6ldpadda",
+            "pt": "Tartaruga"
         },
         "category": {
             "de": "Tier",
@@ -1022,7 +1135,8 @@
             "es": "Animales",
             "fr": "Animaux",
             "tr": "Hayvanlar",
-            "sv": "Djur"
+            "sv": "Djur",
+            "pt": "Animais"
         }
     },
     {
@@ -1032,7 +1146,8 @@
             "es": "asteroide",
             "fr": "ast\u00e9ro\u00efde",
             "tr": "asteroit",
-            "sv": "Astroid"
+            "sv": "Astroid",
+            "pt": "Asteroide"
         },
         "category": {
             "de": "Astronomie",
@@ -1040,7 +1155,8 @@
             "es": "astronom\u00eda",
             "fr": "astronomie",
             "tr": "astronomi",
-            "sv": "Astronomi"
+            "sv": "Astronomi",
+            "pt": "Astronomia"
         }
     },
     {
@@ -1050,7 +1166,8 @@
             "es": "agujero de gusano",
             "fr": "trou de ver",
             "tr": "solucan deli\u011fi",
-            "sv": "Maskh\u00e5l"
+            "sv": "Maskh\u00e5l",
+            "pt": "Buraco de minhoca"
         },
         "category": {
             "de": "Astronomie",
@@ -1058,7 +1175,8 @@
             "es": "astronom\u00eda",
             "fr": "astronomie",
             "tr": "astronomi",
-            "sv": "Astronomi"
+            "sv": "Astronomi",
+            "pt": "Astronomia"
         }
     },
     {
@@ -1068,7 +1186,8 @@
             "es": "chupete",
             "fr": "sucette",
             "tr": "emzik",
-            "sv": "Napp"
+            "sv": "Napp",
+            "pt": "Chupeta"
         },
         "category": {
             "de": "Baby",
@@ -1076,7 +1195,8 @@
             "es": "beb\u00e9",
             "fr": "b\u00e9b\u00e9",
             "tr": "Bebek",
-            "sv": "Bebis"
+            "sv": "Bebis",
+            "pt": "Bebê"
         }
     },
     {
@@ -1085,7 +1205,8 @@
             "en": "stroller",
             "es": "paseante",
             "fr": "poussette",
-            "tr": "bebek arabas\u0131"
+            "tr": "bebek arabas\u0131",
+            "pt": "Carrinho de bebê"
         },
         "category": {
             "de": "Baby",
@@ -1093,7 +1214,8 @@
             "es": "beb\u00e9",
             "fr": "b\u00e9b\u00e9",
             "tr": "Bebek",
-            "sv": "Bebis"
+            "sv": "Bebis",
+            "pt": "Bebê"
         }
     },
     {
@@ -1103,7 +1225,8 @@
             "es": "limonada",
             "fr": "limonade",
             "tr": "limonata",
-            "sv": "Lemonad"
+            "sv": "Lemonad",
+            "pt": "Limonada"
         },
         "category": {
             "de": "Getr\u00e4nk",
@@ -1111,7 +1234,8 @@
             "es": "bebida",
             "fr": "boisson",
             "tr": "i\u00e7ecek",
-            "sv": "Drycker"
+            "sv": "Drycker",
+            "pt": "Bebida"
         }
     },
     {
@@ -1121,7 +1245,8 @@
             "es": "Facebook",
             "fr": "Facebook",
             "tr": "Facebook'ta",
-            "sv": "Facebook"
+            "sv": "Facebook",
+            "pt": "Facebook"
         },
         "category": {
             "de": "Computing",
@@ -1129,7 +1254,8 @@
             "es": "computaci\u00f3n",
             "fr": "informatique",
             "tr": "bilgisayar",
-            "sv": "Teknologi"
+            "sv": "Teknologi",
+            "pt": "Computação"
         }
     },
     {
@@ -1139,7 +1265,8 @@
             "es": "Twitter",
             "fr": "Twitter",
             "tr": "Twitter",
-            "sv": "Twitter"
+            "sv": "Twitter",
+            "pt": "Twitter"
         },
         "category": {
             "de": "Computing",
@@ -1147,7 +1274,8 @@
             "es": "computaci\u00f3n",
             "fr": "informatique",
             "tr": "bilgisayar",
-            "sv": "Teknologi"
+            "sv": "Teknologi",
+            "pt": "Computação"
         }
     },
     {
@@ -1157,7 +1285,8 @@
             "es": "tarea",
             "fr": "devoirs",
             "tr": "Ev \u00f6devi",
-            "sv": "L\u00e4xor"
+            "sv": "L\u00e4xor",
+            "pt": "Lição de casa"
         },
         "category": {
             "de": "Ausbildung",
@@ -1165,7 +1294,8 @@
             "es": "educaci\u00f3n",
             "fr": "\u00e9ducation",
             "tr": "e\u011fitim",
-            "sv": "Utbildning"
+            "sv": "Utbildning",
+            "pt": "Educação"
         }
     },
     {
@@ -1175,7 +1305,8 @@
             "es": "re\u00edr",
             "fr": "en riant",
             "tr": "g\u00fclmek",
-            "sv": "Skrattar"
+            "sv": "Skrattar",
+            "pt": "Rindo"
         },
         "category": {
             "de": "Emotionen",
@@ -1183,7 +1314,8 @@
             "es": "emociones",
             "fr": "\u00e9motions",
             "tr": "duygular",
-            "sv": "K\u00e4nslor"
+            "sv": "K\u00e4nslor",
+            "pt": "Emoções"
         }
     },
     {
@@ -1193,7 +1325,8 @@
             "es": "cumplea\u00f1os",
             "fr": "anniversaire",
             "tr": "do\u011fum g\u00fcn\u00fc",
-            "sv": "F\u00f6delsedag"
+            "sv": "F\u00f6delsedag",
+            "pt": "Aniversário"
         },
         "category": {
             "de": "Ereignis",
@@ -1201,7 +1334,8 @@
             "es": "evento",
             "fr": "\u00e9v\u00e9nement",
             "tr": "etkinlik",
-            "sv": "Aktivitet"
+            "sv": "Aktivitet",
+            "pt": "Evento"
         }
     },
     {
@@ -1211,7 +1345,8 @@
             "es": "elecci\u00f3n",
             "fr": "\u00e9lection",
             "tr": "se\u00e7im",
-            "sv": "Val"
+            "sv": "Val",
+            "pt": "Eleição"
         },
         "category": {
             "de": "Ereignis",
@@ -1219,7 +1354,8 @@
             "es": "evento",
             "fr": "\u00e9v\u00e9nement",
             "tr": "etkinlik",
-            "sv": "Aktivitet"
+            "sv": "Aktivitet",
+            "pt": "Evento"
         }
     },
     {
@@ -1229,7 +1365,8 @@
             "es": "Coco",
             "fr": "noix de coco",
             "tr": "Hindistan cevizi",
-            "sv": "Kokosn\u00f6t"
+            "sv": "Kokosn\u00f6t",
+            "pt": "Coco"
         },
         "category": {
             "de": "Essen",
@@ -1237,7 +1374,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1247,7 +1385,8 @@
             "es": "caf\u00e9",
             "fr": "caf\u00e9",
             "tr": "Kahve",
-            "sv": "Kaffe"
+            "sv": "Kaffe",
+            "pt": "Café"
         },
         "category": {
             "de": "Essen",
@@ -1255,7 +1394,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1265,7 +1405,8 @@
             "es": "panqueques",
             "fr": "cr\u00eapes",
             "tr": "krep",
-            "sv": "Pannkaka"
+            "sv": "Pannkaka",
+            "pt": "Panquecas"
         },
         "category": {
             "de": "Essen",
@@ -1273,7 +1414,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1283,7 +1425,8 @@
             "es": "Palomitas",
             "fr": "Popcorn",
             "tr": "patlam\u0131\u015f m\u0131s\u0131r",
-            "sv": "Popcorn"
+            "sv": "Popcorn",
+            "pt": "Pipoca"
         },
         "category": {
             "de": "Essen",
@@ -1291,7 +1434,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1301,7 +1445,8 @@
             "es": "paleta",
             "fr": "glace",
             "tr": "dondurma",
-            "sv": "Klubba"
+            "sv": "Klubba",
+            "pt": "Picolé"
         },
         "category": {
             "de": "Essen",
@@ -1309,7 +1454,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1319,7 +1465,8 @@
             "es": "galleta salada",
             "fr": "bretzel",
             "tr": "pretzel",
-            "sv": "Kringla"
+            "sv": "Kringla",
+            "pt": "Pretzel"
         },
         "category": {
             "de": "Essen",
@@ -1327,7 +1474,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1337,7 +1485,8 @@
             "es": "calabaza",
             "fr": "citrouille",
             "tr": "kabak",
-            "sv": "Pumpa"
+            "sv": "Pumpa",
+            "pt": "Abóbora"
         },
         "category": {
             "de": "Essen",
@@ -1345,7 +1494,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1355,7 +1505,8 @@
             "es": "s\u00e1ndwich",
             "fr": "sandwich",
             "tr": "sandvi\u00e7",
-            "sv": "Macka"
+            "sv": "Macka",
+            "pt": "Sanduíche"
         },
         "category": {
             "de": "Essen",
@@ -1363,7 +1514,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1373,7 +1525,8 @@
             "es": "embutido",
             "fr": "saucisse",
             "tr": "sosis",
-            "sv": "Korv"
+            "sv": "Korv",
+            "pt": "Linguiça"
         },
         "category": {
             "de": "Essen",
@@ -1381,7 +1534,8 @@
             "es": "Alimento",
             "fr": "Nourriture",
             "tr": "Yiyecek",
-            "sv": "Mat"
+            "sv": "Mat",
+            "pt": "Comida"
         }
     },
     {
@@ -1391,7 +1545,8 @@
             "es": "Am\u00e9rica",
             "fr": "Am\u00e9rique",
             "tr": "Amerika",
-            "sv": "Amerika"
+            "sv": "Amerika",
+            "pt": "América"
         },
         "category": {
             "de": "Geographie",
@@ -1399,7 +1554,8 @@
             "es": "geograf\u00eda",
             "fr": "g\u00e9ographie",
             "tr": "co\u011frafya",
-            "sv": "Geografi"
+            "sv": "Geografi",
+            "pt": "Geografia"
         }
     },
     {
@@ -1409,7 +1565,8 @@
             "es": "Inglaterra",
             "fr": "Angleterre",
             "tr": "\u0130ngiltere",
-            "sv": "England"
+            "sv": "England",
+            "pt": "Inglaterra"
         },
         "category": {
             "de": "Geographie",
@@ -1417,7 +1574,8 @@
             "es": "geograf\u00eda",
             "fr": "g\u00e9ographie",
             "tr": "co\u011frafya",
-            "sv": "Geografi"
+            "sv": "Geografi",
+            "pt": "Geografia"
         }
     },
     {
@@ -1427,7 +1585,8 @@
             "es": "Finlandia",
             "fr": "Finlande",
             "tr": "Finlandiya",
-            "sv": "Finland"
+            "sv": "Finland",
+            "pt": "Finlândia"
         },
         "category": {
             "de": "Geographie",
@@ -1435,7 +1594,8 @@
             "es": "geograf\u00eda",
             "fr": "g\u00e9ographie",
             "tr": "co\u011frafya",
-            "sv": "Geografi"
+            "sv": "Geografi",
+            "pt": "Geografia"
         }
     },
     {
@@ -1445,7 +1605,8 @@
             "es": "Alemania",
             "fr": "Allemagne",
             "tr": "Almanya",
-            "sv": "Tyskland"
+            "sv": "Tyskland",
+            "pt": "Alemanha"
         },
         "category": {
             "de": "Geographie",
@@ -1453,7 +1614,8 @@
             "es": "geograf\u00eda",
             "fr": "g\u00e9ographie",
             "tr": "co\u011frafya",
-            "sv": "Geografi"
+            "sv": "Geografi",
+            "pt": "Geografia"
         }
     },
     {
@@ -1463,7 +1625,8 @@
             "es": "Holanda",
             "fr": "Hollande",
             "tr": "hollanda",
-            "sv": "Holland"
+            "sv": "Holland",
+            "pt": "Holanda"
         },
         "category": {
             "de": "Geographie",
@@ -1471,7 +1634,8 @@
             "es": "geograf\u00eda",
             "fr": "g\u00e9ographie",
             "tr": "co\u011frafya",
-            "sv": "Geografi"
+            "sv": "Geografi",
+            "pt": "Geografia"
         }
     },
     {
@@ -1481,7 +1645,8 @@
             "es": "Jamaica",
             "fr": "Jama\u00efque",
             "tr": "Jamaika",
-            "sv": "Jamaika"
+            "sv": "Jamaika",
+            "pt": "Jamaica"
         },
         "category": {
             "de": "Geographie",
@@ -1489,7 +1654,8 @@
             "es": "geograf\u00eda",
             "fr": "g\u00e9ographie",
             "tr": "co\u011frafya",
-            "sv": "Geografi"
+            "sv": "Geografi",
+            "pt": "Geografia"
         }
     },
     {
@@ -1499,7 +1665,8 @@
             "es": "Nueva York",
             "fr": "New York",
             "tr": "New York",
-            "sv": "New York"
+            "sv": "New York",
+            "pt": "Nova Iorque"
         },
         "category": {
             "de": "Geographie",
@@ -1507,7 +1674,8 @@
             "es": "geograf\u00eda",
             "fr": "g\u00e9ographie",
             "tr": "co\u011frafya",
-            "sv": "Geografi"
+            "sv": "Geografi",
+            "pt": "Geografia"
         }
     },
     {
@@ -1517,7 +1685,8 @@
             "es": "monta\u00f1a",
             "fr": "montagne",
             "tr": "da\u011f",
-            "sv": "Berg"
+            "sv": "Berg",
+            "pt": "Montanha"
         },
         "category": {
             "de": "Geologie",
@@ -1525,7 +1694,8 @@
             "es": "geolog\u00eda",
             "fr": "g\u00e9ologie",
             "tr": "jeoloji",
-            "sv": "Geologi"
+            "sv": "Geologi",
+            "pt": "Geologia"
         }
     },
     {
@@ -1535,7 +1705,8 @@
             "es": "volc\u00e1n",
             "fr": "volcan",
             "tr": "yanarda\u011f",
-            "sv": "Vulkan"
+            "sv": "Vulkan",
+            "pt": "Vulcão"
         },
         "category": {
             "de": "Geologie",
@@ -1543,7 +1714,8 @@
             "es": "geolog\u00eda",
             "fr": "g\u00e9ologie",
             "tr": "jeoloji",
-            "sv": "Geologi"
+            "sv": "Geologi",
+            "pt": "Geologia"
         }
     },
     {
@@ -1553,7 +1725,8 @@
             "es": "artista",
             "fr": "artiste",
             "tr": "sanat\u00e7\u0131",
-            "sv": "Artist"
+            "sv": "Artist",
+            "pt": "Artista"
         },
         "category": {
             "de": "Beruf",
@@ -1561,7 +1734,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1571,7 +1745,8 @@
             "es": "carnicero",
             "fr": "Boucher",
             "tr": "Kasap",
-            "sv": "Slaktare"
+            "sv": "Slaktare",
+            "pt": "Açougueiro"
         },
         "category": {
             "de": "Beruf",
@@ -1579,7 +1754,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1589,7 +1765,8 @@
             "es": "capit\u00e1n",
             "fr": "capitaine",
             "tr": "kaptan",
-            "sv": "Kapten"
+            "sv": "Kapten",
+            "pt": "Capitão"
         },
         "category": {
             "de": "Beruf",
@@ -1597,7 +1774,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1607,7 +1785,8 @@
             "es": "cajero",
             "fr": "caissier",
             "tr": "kasiyer",
-            "sv": "Kass\u00f6r"
+            "sv": "Kass\u00f6r",
+            "pt": "Caixa"
         },
         "category": {
             "de": "Beruf",
@@ -1615,7 +1794,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1625,7 +1805,8 @@
             "es": "dentista",
             "fr": "dentiste",
             "tr": "di\u015f\u00e7i",
-            "sv": "Tandl\u00e4kare"
+            "sv": "Tandl\u00e4kare",
+            "pt": "Dentista"
         },
         "category": {
             "de": "Beruf",
@@ -1633,7 +1814,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1643,7 +1825,8 @@
             "es": "doctor",
             "fr": "m\u00e9decin",
             "tr": "doktor",
-            "sv": "Doktor"
+            "sv": "Doktor",
+            "pt": "Médico"
         },
         "category": {
             "de": "Beruf",
@@ -1651,7 +1834,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1661,7 +1845,8 @@
             "es": "agricultor",
             "fr": "fermier",
             "tr": "\u00e7ift\u00e7i",
-            "sv": "Bonde"
+            "sv": "Bonde",
+            "pt": "Fazendeiro"
         },
         "category": {
             "de": "Beruf",
@@ -1669,7 +1854,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1679,7 +1865,8 @@
             "es": "jardinero",
             "fr": "jardinier",
             "tr": "bah\u00e7\u0131van",
-            "sv": "Tr\u00e4dg\u00e5rdsm\u00e4stare"
+            "sv": "Tr\u00e4dg\u00e5rdsm\u00e4stare",
+            "pt": "Jardineiro"
         },
         "category": {
             "de": "Beruf",
@@ -1687,7 +1874,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1697,7 +1885,8 @@
             "es": "cartero",
             "fr": "facteur",
             "tr": "postac\u0131",
-            "sv": "Brevb\u00e4rare"
+            "sv": "Brevb\u00e4rare",
+            "pt": "Carteiro"
         },
         "category": {
             "de": "Beruf",
@@ -1705,7 +1894,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1715,7 +1905,8 @@
             "es": "pintor",
             "fr": "peintre",
             "tr": "ressam",
-            "sv": "M\u00e5lare"
+            "sv": "M\u00e5lare",
+            "pt": "Pintor"
         },
         "category": {
             "de": "Beruf",
@@ -1723,7 +1914,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1733,7 +1925,8 @@
             "es": "soldado",
             "fr": "soldat",
             "tr": "asker",
-            "sv": "Soldat"
+            "sv": "Soldat",
+            "pt": "Soldado"
         },
         "category": {
             "de": "Beruf",
@@ -1741,7 +1934,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1751,7 +1945,8 @@
             "es": "cirujano",
             "fr": "chirurgien",
             "tr": "cerrah",
-            "sv": "Kirurg"
+            "sv": "Kirurg",
+            "pt": "Cirurgião"
         },
         "category": {
             "de": "Beruf",
@@ -1759,7 +1954,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1769,7 +1965,8 @@
             "es": "maestro",
             "fr": "professeur",
             "tr": "\u00d6\u011fretmen",
-            "sv": "L\u00e4rare"
+            "sv": "L\u00e4rare",
+            "pt": "Professor"
         },
         "category": {
             "de": "Beruf",
@@ -1777,7 +1974,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1787,7 +1985,8 @@
             "es": "camarera",
             "fr": "serveuse",
             "tr": "Garson",
-            "sv": "Servitris"
+            "sv": "Servitris",
+            "pt": "Garçonete"
         },
         "category": {
             "de": "Beruf",
@@ -1795,7 +1994,8 @@
             "es": "profesi\u00f3n",
             "fr": "profession",
             "tr": "meslek",
-            "sv": "Yrke"
+            "sv": "Yrke",
+            "pt": "Profissão"
         }
     },
     {
@@ -1805,7 +2005,8 @@
             "es": "tiro al arco",
             "fr": "tir \u00e0 l'arc",
             "tr": "ok\u00e7uluk",
-            "sv": "B\u00e5gskytte"
+            "sv": "B\u00e5gskytte",
+            "pt": "Arco e flecha"
         },
         "category": {
             "de": "Sport",
@@ -1813,7 +2014,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1823,7 +2025,8 @@
             "es": "bolos",
             "fr": "bowling",
             "tr": "bowling",
-            "sv": "Bowling"
+            "sv": "Bowling",
+            "pt": "Boliche"
         },
         "category": {
             "de": "Sport",
@@ -1831,7 +2034,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1841,7 +2045,8 @@
             "es": "boxeo",
             "fr": "boxe",
             "tr": "boks",
-            "sv": "Boxning"
+            "sv": "Boxning",
+            "pt": "Boxe"
         },
         "category": {
             "de": "Sport",
@@ -1849,7 +2054,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1859,7 +2065,8 @@
             "es": "esgrima",
             "fr": "escrime",
             "tr": "eskrim",
-            "sv": "F\u00e4ktning"
+            "sv": "F\u00e4ktning",
+            "pt": "Esgrima"
         },
         "category": {
             "de": "Sport",
@@ -1867,7 +2074,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1877,7 +2085,8 @@
             "es": "pesca",
             "fr": "p\u00eache",
             "tr": "bal\u0131k tutma",
-            "sv": "Fiske"
+            "sv": "Fiske",
+            "pt": "Pesca"
         },
         "category": {
             "de": "Sport",
@@ -1885,7 +2094,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1895,7 +2105,8 @@
             "es": "f\u00fatbol americano",
             "fr": "football",
             "tr": "futbol",
-            "sv": "Fotboll"
+            "sv": "Fotboll",
+            "pt": "Futebol Americano"
         },
         "category": {
             "de": "Sport",
@@ -1903,7 +2114,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1913,7 +2125,8 @@
             "es": "salto de longitud",
             "fr": "saut en longueur",
             "tr": "uzun atlama",
-            "sv": "L\u00e4ngdhopp"
+            "sv": "L\u00e4ngdhopp",
+            "pt": "Salto em distância"
         },
         "category": {
             "de": "Sport",
@@ -1921,7 +2134,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1931,7 +2145,8 @@
             "es": "minigolf",
             "fr": "minigolf",
             "tr": "mini golf",
-            "sv": "Minigolf"
+            "sv": "Minigolf",
+            "pt": "Minigolfe"
         },
         "category": {
             "de": "Sport",
@@ -1939,7 +2154,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1949,7 +2165,8 @@
             "es": "Juegos Ol\u00edmpicos",
             "fr": "Jeux olympiques",
             "tr": "olimpiyatlar",
-            "sv": "Olympiska spelen"
+            "sv": "Olympiska spelen",
+            "pt": "Olimpíadas"
         },
         "category": {
             "de": "Sport",
@@ -1957,7 +2174,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1967,7 +2185,8 @@
             "es": "nadar",
             "fr": "natation",
             "tr": "y\u00fczme",
-            "sv": "Simning"
+            "sv": "Simning",
+            "pt": "Natação"
         },
         "category": {
             "de": "Sport",
@@ -1975,7 +2194,8 @@
             "es": "deportes",
             "fr": "sportif",
             "tr": "spor",
-            "sv": "Sport"
+            "sv": "Sport",
+            "pt": "Esportes"
         }
     },
     {
@@ -1985,7 +2205,8 @@
             "es": "motosierra",
             "fr": "tron\u00e7onneuse",
             "tr": "motorlu testere",
-            "sv": "Motors\u00e5g"
+            "sv": "Motors\u00e5g",
+            "pt": "Motosserra"
         },
         "category": {
             "de": "Werkzeug",
@@ -1993,7 +2214,8 @@
             "es": "herramienta",
             "fr": "outil",
             "tr": "alet",
-            "sv": "Verktyg"
+            "sv": "Verktyg",
+            "pt": "Ferramenta"
         }
     },
     {
@@ -2003,7 +2225,8 @@
             "es": "palanca",
             "fr": "pied de biche",
             "tr": "kazaya\u011f\u0131",
-            "sv": "Kofot"
+            "sv": "Kofot",
+            "pt": "Pé de cabra"
         },
         "category": {
             "de": "Werkzeug",
@@ -2011,7 +2234,8 @@
             "es": "herramienta",
             "fr": "outil",
             "tr": "alet",
-            "sv": "Verktyg"
+            "sv": "Verktyg",
+            "pt": "Ferramenta"
         }
     },
     {
@@ -2021,7 +2245,8 @@
             "es": "recogedor",
             "fr": "pelle \u00e0 poussi\u00e8re",
             "tr": "fara\u015f",
-            "sv": "Sopskyffel"
+            "sv": "Sopskyffel",
+            "pt": "Pá de lixo"
         },
         "category": {
             "de": "Werkzeug",
@@ -2029,7 +2254,8 @@
             "es": "herramienta",
             "fr": "outil",
             "tr": "alet",
-            "sv": "Verktyg"
+            "sv": "Verktyg",
+            "pt": "Ferramenta"
         }
     },
     {
@@ -2039,7 +2265,8 @@
             "es": "tijeras",
             "fr": "ciseaux",
             "tr": "makas",
-            "sv": "Saxar"
+            "sv": "Saxar",
+            "pt": "Tesoura"
         },
         "category": {
             "de": "Werkzeug",
@@ -2047,7 +2274,8 @@
             "es": "herramienta",
             "fr": "outil",
             "tr": "alet",
-            "sv": "Verktyg"
+            "sv": "Verktyg",
+            "pt": "Ferramenta"
         }
     },
     {
@@ -2057,7 +2285,8 @@
             "es": "pinzas",
             "fr": "pince \u00e0 \u00e9piler",
             "tr": "c\u0131mb\u0131z",
-            "sv": "Pincett"
+            "sv": "Pincett",
+            "pt": "Pinça"
         },
         "category": {
             "de": "Werkzeug",
@@ -2065,7 +2294,8 @@
             "es": "herramienta",
             "fr": "outil",
             "tr": "alet",
-            "sv": "Verktyg"
+            "sv": "Verktyg",
+            "pt": "Ferramenta"
         }
     },
     {
@@ -2075,7 +2305,8 @@
             "es": "columpio",
             "fr": "balan\u00e7oire",
             "tr": "sal\u0131ncak seti",
-            "sv": "Gunga"
+            "sv": "Gunga",
+            "pt": "Balanço"
         },
         "category": {
             "de": "Spielzeug",
@@ -2083,7 +2314,8 @@
             "es": "juguete",
             "fr": "jouet",
             "tr": "oyuncak",
-            "sv": "Leksak"
+            "sv": "Leksak",
+            "pt": "Brinquedo"
         }
     },
     {
@@ -2093,7 +2325,8 @@
             "es": "bicicleta",
             "fr": "v\u00e9lo",
             "tr": "bisiklet",
-            "sv": "Cykel"
+            "sv": "Cykel",
+            "pt": "Bicicleta"
         },
         "category": {
             "de": "Fahrzeug",
@@ -2101,7 +2334,8 @@
             "es": "veh\u00edculo",
             "fr": "v\u00e9hicule",
             "tr": "ara\u00e7",
-            "sv": "Fordon"
+            "sv": "Fordon",
+            "pt": "Veículo"
         }
     },
     {
@@ -2111,7 +2345,8 @@
             "es": "m\u00e1quina elevadora",
             "fr": "chariot \u00e9l\u00e9vateur",
             "tr": "forklift",
-            "sv": "Gaffeltruck"
+            "sv": "Gaffeltruck",
+            "pt": "Empilhadeira"
         },
         "category": {
             "de": "Fahrzeug",
@@ -2119,7 +2354,8 @@
             "es": "veh\u00edculo",
             "fr": "v\u00e9hicule",
             "tr": "ara\u00e7",
-            "sv": "Fordon"
+            "sv": "Fordon",
+            "pt": "Veículo"
         }
     },
     {
@@ -2129,7 +2365,8 @@
             "es": "velero",
             "fr": "voilier",
             "tr": "yelkenli",
-            "sv": "Segelb\u00e5t"
+            "sv": "Segelb\u00e5t",
+            "pt": "Veleiro"
         },
         "category": {
             "de": "Fahrzeug",
@@ -2137,7 +2374,8 @@
             "es": "veh\u00edculo",
             "fr": "v\u00e9hicule",
             "tr": "ara\u00e7",
-            "sv": "Fordon"
+            "sv": "Fordon",
+            "pt": "Veículo"
         }
     },
     {
@@ -2147,7 +2385,8 @@
             "es": "cami\u00f3n de remolque",
             "fr": "d\u00e9panneuse",
             "tr": "\u00e7ekici",
-            "sv": "Bogseringsbil"
+            "sv": "Bogseringsbil",
+            "pt": "Guincho"
         },
         "category": {
             "de": "Fahrzeug",
@@ -2155,7 +2394,8 @@
             "es": "veh\u00edculo",
             "fr": "v\u00e9hicule",
             "tr": "ara\u00e7",
-            "sv": "Fordon"
+            "sv": "Fordon",
+            "pt": "Veículo"
         }
     },
     {
@@ -2165,7 +2405,8 @@
             "es": "Tractor",
             "fr": "Tracteur",
             "tr": "Trakt\u00f6r",
-            "sv": "Traktor"
+            "sv": "Traktor",
+            "pt": "Trator"
         },
         "category": {
             "de": "Fahrzeug",
@@ -2173,7 +2414,8 @@
             "es": "veh\u00edculo",
             "fr": "v\u00e9hicule",
             "tr": "ara\u00e7",
-            "sv": "Fordon"
+            "sv": "Fordon",
+            "pt": "Veículo"
         }
     },
     {
@@ -2183,7 +2425,8 @@
             "es": "ventisca",
             "fr": "blizzard",
             "tr": "tipi",
-            "sv": "Sn\u00f6storm"
+            "sv": "Sn\u00f6storm",
+            "pt": "Nevasca"
         },
         "category": {
             "de": "Wetter",
@@ -2191,7 +2434,8 @@
             "es": "clima",
             "fr": "m\u00e9t\u00e9o",
             "tr": "hava durumu",
-            "sv": "V\u00e4der"
+            "sv": "V\u00e4der",
+            "pt": "Clima"
         }
     },
     {
@@ -2201,7 +2445,8 @@
             "es": "tornado",
             "fr": "tornade",
             "tr": "kas\u0131rga",
-            "sv": "Tornado"
+            "sv": "Tornado",
+            "pt": "Tornado"
         },
         "category": {
             "de": "Wetter",
@@ -2209,7 +2454,8 @@
             "es": "clima",
             "fr": "m\u00e9t\u00e9o",
             "tr": "hava durumu",
-            "sv": "V\u00e4der"
+            "sv": "V\u00e4der",
+            "pt": "Clima"
         }
     },
     {
@@ -2219,7 +2465,8 @@
             "es": "nadar",
             "fr": "natation",
             "tr": "y\u00fczme",
-            "sv": "Simning"
+            "sv": "Simning",
+            "pt": "Natação"
         },
         "category": {
             "de": "Aktivit\u00e4t",
@@ -2227,7 +2474,8 @@
             "es": "actividad",
             "fr": "activit\u00e9",
             "tr": "etkinlik",
-            "sv": "Aktivitet"
+            "sv": "Aktivitet",
+            "pt": "Atividade"
         }
     },
     {
@@ -2237,7 +2485,8 @@
             "es": "senderismo",
             "fr": "randonn\u00e9e",
             "tr": "do\u011fa y\u00fcr\u00fcy\u00fc\u015f\u00fc",
-            "sv": "Vandring"
+            "sv": "Vandring",
+            "pt": "Trilha"
         },
         "category": {
             "de": "Aktivit\u00e4t",
@@ -2245,7 +2494,8 @@
             "es": "actividad",
             "fr": "activit\u00e9",
             "tr": "etkinlik",
-            "sv": "Aktivitet"
+            "sv": "Aktivitet",
+            "pt": "Atividade"
         }
     },
     {
@@ -2255,7 +2505,8 @@
             "es": "baile",
             "fr": "dansant",
             "tr": "dans",
-            "sv": "Dans"
+            "sv": "Dans",
+            "pt": "Dança"
         },
         "category": {
             "de": "Aktivit\u00e4t",
@@ -2263,7 +2514,8 @@
             "es": "actividad",
             "fr": "activit\u00e9",
             "tr": "etkinlik",
-            "sv": "Aktivitet"
+            "sv": "Aktivitet",
+            "pt": "Atividade"
         }
     },
     {
@@ -2273,7 +2525,8 @@
             "es": "lectura",
             "fr": "en lisant",
             "tr": "okuma",
-            "sv": "L\u00e4sa"
+            "sv": "L\u00e4sa",
+            "pt": "Leitura"
         },
         "category": {
             "de": "Aktivit\u00e4t",
@@ -2281,7 +2534,8 @@
             "es": "actividad",
             "fr": "activit\u00e9",
             "tr": "etkinlik",
-            "sv": "Aktivitet"
+            "sv": "Aktivitet",
+            "pt": "Atividade"
         }
     },
     {
@@ -2291,7 +2545,8 @@
             "es": "escalada",
             "fr": "escalade",
             "tr": "t\u0131rmanma",
-            "sv": "Kl\u00e4ttra"
+            "sv": "Kl\u00e4ttra",
+            "pt": "Escalada"
         },
         "category": {
             "de": "Aktivit\u00e4t",
@@ -2299,7 +2554,8 @@
             "es": "actividad",
             "fr": "activit\u00e9",
             "tr": "etkinlik",
-            "sv": "Aktivitet"
+            "sv": "Aktivitet",
+            "pt": "Atividade"
         }
     },
     {
@@ -2309,7 +2565,8 @@
             "es": "bloques de construcci\u00f3n",
             "fr": "blocs de construction",
             "tr": "yap\u0131 ta\u015flar\u0131",
-            "sv": "Byggklossar"
+            "sv": "Byggklossar",
+            "pt": "Blocos de montar"
         },
         "category": {
             "de": "Spielzeug",
@@ -2317,7 +2574,8 @@
             "es": "juguete",
             "fr": "jouet",
             "tr": "oyuncak",
-            "sv": "Leksak"
+            "sv": "Leksak",
+            "pt": "Brinquedo"
         }
     },
     {
@@ -2327,7 +2585,8 @@
             "es": "animales rellenos",
             "fr": "peluches",
             "tr": "pel\u00fc\u015f hayvanlar",
-            "sv": "Gosedjur"
+            "sv": "Gosedjur",
+            "pt": "Bichos de pelúcia"
         },
         "category": {
             "de": "Spielzeug",
@@ -2335,7 +2594,8 @@
             "es": "juguete",
             "fr": "jouet",
             "tr": "oyuncak",
-            "sv": "Leksak"
+            "sv": "Leksak",
+            "pt": "Brinquedo"
         }
     },
     {
@@ -2345,7 +2605,8 @@
             "es": "lluvia",
             "fr": "pluie",
             "tr": "ya\u011fmur",
-            "sv": "Regn"
+            "sv": "Regn",
+            "pt": "Chuva"
         },
         "category": {
             "de": "Wetter",
@@ -2353,7 +2614,8 @@
             "es": "clima",
             "fr": "m\u00e9t\u00e9o",
             "tr": "hava durumu",
-            "sv": "V\u00e4der"
+            "sv": "V\u00e4der",
+            "pt": "Clima"
         }
     },
     {
@@ -2363,7 +2625,8 @@
             "es": "luz solar",
             "fr": "soleil",
             "tr": "g\u00fcne\u015f \u0131\u015f\u0131\u011f\u0131",
-            "sv": "Solsken"
+            "sv": "Solsken",
+            "pt": "Luz do sol"
         },
         "category": {
             "de": "Wetter",
@@ -2371,7 +2634,8 @@
             "es": "clima",
             "fr": "m\u00e9t\u00e9o",
             "tr": "hava durumu",
-            "sv": "V\u00e4der"
+            "sv": "V\u00e4der",
+            "pt": "Clima"
         }
     },
     {
@@ -2381,7 +2645,8 @@
             "es": "nieve",
             "fr": "neige",
             "tr": "kar",
-            "sv": "Sn\u00f6"
+            "sv": "Sn\u00f6",
+            "pt": "Neve"
         },
         "category": {
             "de": "Wetter",
@@ -2389,7 +2654,8 @@
             "es": "clima",
             "fr": "m\u00e9t\u00e9o",
             "tr": "hava durumu",
-            "sv": "V\u00e4der"
+            "sv": "V\u00e4der",
+            "pt": "Clima"
         }
     },
     {
@@ -2399,7 +2665,8 @@
             "es": "viento",
             "fr": "vent",
             "tr": "r\u00fczg\u00e2r",
-            "sv": "Vind"
+            "sv": "Vind",
+            "pt": "Vento"
         },
         "category": {
             "de": "Wetter",
@@ -2407,7 +2674,8 @@
             "es": "clima",
             "fr": "m\u00e9t\u00e9o",
             "tr": "hava durumu",
-            "sv": "V\u00e4der"
+            "sv": "V\u00e4der",
+            "pt": "Clima"
         }
     },
     {
@@ -2417,7 +2685,8 @@
             "es": "niebla",
             "fr": "brouillard",
             "tr": "sis",
-            "sv": "Dimma"
+            "sv": "Dimma",
+            "pt": "Neblina"
         },
         "category": {
             "de": "Wetter",
@@ -2425,7 +2694,8 @@
             "es": "clima",
             "fr": "m\u00e9t\u00e9o",
             "tr": "hava durumu",
-            "sv": "V\u00e4der"
+            "sv": "V\u00e4der",
+            "pt": "Clima"
         }
     },
     {
@@ -2435,7 +2705,8 @@
             "es": "Piano",
             "fr": "Piano",
             "tr": "Piyano",
-            "sv": "Piano"
+            "sv": "Piano",
+            "pt": "Piano"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2443,7 +2714,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2453,7 +2725,8 @@
             "es": "Guitarra",
             "fr": "Guitare",
             "tr": "Gitar",
-            "sv": "Gitarr"
+            "sv": "Gitarr",
+            "pt": "Violão"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2461,7 +2734,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2471,7 +2745,8 @@
             "es": "Trompeta",
             "fr": "Trompette",
             "tr": "Trompet",
-            "sv": "Trumpet"
+            "sv": "Trumpet",
+            "pt": "Trompete"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2479,7 +2754,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2489,7 +2765,8 @@
             "es": "Violín",
             "fr": "Violon",
             "tr": "Keman",
-            "sv": "Fiol"
+            "sv": "Fiol",
+            "pt": "Violino"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2497,7 +2774,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2507,7 +2785,8 @@
             "es": "Batería",
             "fr": "Batterie",
             "tr": "Davul",
-            "sv": "Trummor"
+            "sv": "Trummor",
+            "pt": "Bateria"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2515,7 +2794,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2525,7 +2805,8 @@
             "es": "Flauta",
             "fr": "Flûte",
             "tr": "Flüt",
-            "sv": "Fl\u00f6jt"
+            "sv": "Fl\u00f6jt",
+            "pt": "Flauta"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2533,7 +2814,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2543,7 +2825,8 @@
             "es": "Saxofón",
             "fr": "Saxophone",
             "tr": "Saksafon",
-            "sv": "Saxofon"
+            "sv": "Saxofon",
+            "pt": "Saxofone"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2551,7 +2834,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2561,7 +2845,8 @@
             "es": "Arpa",
             "fr": "Harpe",
             "tr": "Arp",
-            "sv": "Harpa"
+            "sv": "Harpa",
+            "pt": "Harpa"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2569,7 +2854,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2579,7 +2865,8 @@
             "es": "Acordeón",
             "fr": "Accordéon",
             "tr": "Akordeon",
-            "sv": "Dragspel"
+            "sv": "Dragspel",
+            "pt": "Sanfona"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2587,7 +2874,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2597,7 +2885,8 @@
             "es": "Armónica",
             "fr": "Harmonica",
             "tr": "Mızıka",
-            "sv": "Munspel"
+            "sv": "Munspel",
+            "pt": "Gaita"
         },
         "category": {
             "de": "Musikinstrumente",
@@ -2605,7 +2894,8 @@
             "es": "Instrumentos Musicales",
             "fr": "Instruments de Musique",
             "tr": "Müzik Aletleri",
-            "sv": "Instrument"
+            "sv": "Instrument",
+            "pt": "Instrumentos Musicais"
         }
     },
     {
@@ -2615,7 +2905,8 @@
             "es": "Mochila",
             "fr": "Sac à dos",
             "tr": "Sırt çantası",
-            "sv": "Ryggs\u00e4ck"
+            "sv": "Ryggs\u00e4ck",
+            "pt": "Mochila"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2623,7 +2914,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2633,7 +2925,8 @@
             "es": "Llave",
             "fr": "Clé",
             "tr": "Anahtar",
-            "sv": "Nyckel"
+            "sv": "Nyckel",
+            "pt": "Chave"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2641,7 +2934,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2651,7 +2945,8 @@
             "es": "Gafas",
             "fr": "Lunettes",
             "tr": "G\u00f6zlük",
-            "sv": "Glas\u00f6gon"
+            "sv": "Glas\u00f6gon",
+            "pt": "Óculos"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2659,7 +2954,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2669,7 +2965,8 @@
             "es": "Zapato",
             "fr": "Chaussure",
             "tr": "Ayakkabı",
-            "sv": "Sko"
+            "sv": "Sko",
+            "pt": "Sapato"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2677,7 +2974,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2687,7 +2985,8 @@
             "es": "Taza",
             "fr": "Tasse",
             "tr": "Bardak",
-            "sv": "Mugg"
+            "sv": "Mugg",
+            "pt": "Caneca"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2695,7 +2994,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2705,7 +3005,8 @@
             "es": "Bolígrafo",
             "fr": "Stylo",
             "tr": "Tükenmez Kalem",
-            "sv": "Penna"
+            "sv": "Penna",
+            "pt": "Caneta"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2713,7 +3014,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2723,7 +3025,8 @@
             "es": "Reloj",
             "fr": "Montre",
             "tr": "Saat",
-            "sv": "Klocka"
+            "sv": "Klocka",
+            "pt": "Relógio"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2731,7 +3034,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2741,7 +3045,8 @@
             "es": "Teléfono",
             "fr": "Téléphone",
             "tr": "Telefon",
-            "sv": "Telefon"
+            "sv": "Telefon",
+            "pt": "Telefone"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2749,7 +3054,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2759,7 +3065,8 @@
             "es": "Paraguas",
             "fr": "Parapluie",
             "tr": "Şemsiye",
-            "sv": "Paraply"
+            "sv": "Paraply",
+            "pt": "Guarda-chuva"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2767,7 +3074,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2777,7 +3085,8 @@
             "es": "Cuaderno",
             "fr": "Cahier",
             "tr": "Defter",
-            "sv": "Anteckningsblock"
+            "sv": "Anteckningsblock",
+            "pt": "Caderno"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2785,7 +3094,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2795,7 +3105,8 @@
             "es": "Bolsa",
             "fr": "Sac",
             "tr": "Çanta",
-            "sv": "P\u00e5se"
+            "sv": "P\u00e5se",
+            "pt": "Bolsa"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2803,7 +3114,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2813,7 +3125,8 @@
             "es": "Cartera",
             "fr": "Portefeuille",
             "tr": "Cüzdan",
-            "sv": "Pl\u00e5nbok"
+            "sv": "Pl\u00e5nbok",
+            "pt": "Carteira"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2821,7 +3134,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2831,7 +3145,8 @@
             "es": "Cepillo de dientes",
             "fr": "Brosse à dents",
             "tr": "Diş Fırçası",
-            "sv": "Tandborste"
+            "sv": "Tandborste",
+            "pt": "Escova de dentes"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2839,7 +3154,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2849,7 +3165,8 @@
             "es": "Mando a distancia",
             "fr": "Télécommande",
             "tr": "Uzaktan Kumanda",
-            "sv": "Fj\u00e4rrkontroll"
+            "sv": "Fj\u00e4rrkontroll",
+            "pt": "Controle Remoto"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2857,7 +3174,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2867,7 +3185,8 @@
             "es": "Cuchara",
             "fr": "Cuillère",
             "tr": "Kaşık",
-            "sv": "Sked"
+            "sv": "Sked",
+            "pt": "Colher"
         },
         "category": {
             "de": "Alltagsgegenst\u00e4nde",
@@ -2875,7 +3194,8 @@
             "es": "Objetos cotidianos",
             "fr": "Objets du quotidien",
             "tr": "Günlük Eşyalar",
-            "sv": "Vardagliga ting"
+            "sv": "Vardagliga ting",
+            "pt": "Itens do Dia a Dia"
         }
     },
     {
@@ -2885,7 +3205,8 @@
             "es": "Ajedrez",
             "fr": "Échecs",
             "tr": "Satranç",
-            "sv": "Schack"
+            "sv": "Schack",
+            "pt": "Xadrez"
         },
         "category": {
             "de": "Spiele",
@@ -2893,7 +3214,8 @@
             "es": "Juegos",
             "fr": "Jeux",
             "tr": "Oyunlar",
-            "sv": "Spel"
+            "sv": "Spel",
+            "pt": "Jogos"
         }
     },
     {
@@ -2903,7 +3225,8 @@
             "es": "Monopoly",
             "fr": "Monopoly",
             "tr": "Monopoly",
-            "sv": "Monopoly"
+            "sv": "Monopoly",
+            "pt": "Monopoly"
         },
         "category": {
             "de": "Spiele",
@@ -2911,7 +3234,8 @@
             "es": "Juegos",
             "fr": "Jeux",
             "tr": "Oyunlar",
-            "sv": "Spel"
+            "sv": "Spel",
+            "pt": "Jogos"
         }
     },
     {
@@ -2921,7 +3245,8 @@
             "es": "Juego de Cartas",
             "fr": "Jeu de Cartes",
             "tr": "Kart Oyunu",
-            "sv": "Kortspel"
+            "sv": "Kortspel",
+            "pt": "Jogo de Cartas"
         },
         "category": {
             "de": "Spiele",
@@ -2929,7 +3254,8 @@
             "es": "Juegos",
             "fr": "Jeux",
             "tr": "Oyunlar",
-            "sv": "Spel"
+            "sv": "Spel",
+            "pt": "Jogos"
         }
     },
     {
@@ -2939,7 +3265,8 @@
             "es": "Scrabble",
             "fr": "Scrabble",
             "tr": "Scrabble",
-            "sv": "Scrabble"
+            "sv": "Scrabble",
+            "pt": "Scrabble"
         },
         "category": {
             "de": "Spiele",
@@ -2947,7 +3274,8 @@
             "es": "Juegos",
             "fr": "Jeux",
             "tr": "Oyunlar",
-            "sv": "Spel"
+            "sv": "Spel",
+            "pt": "Jogos"
         }
     },
     {
@@ -2957,7 +3285,8 @@
             "es": "Parchís",
             "fr": "Petits Chevaux",
             "tr": "Kızma Birader",
-            "sv": "Fia med knuff"
+            "sv": "Fia med knuff",
+            "pt": "Ludo"
         },
         "category": {
             "de": "Spiele",
@@ -2965,7 +3294,8 @@
             "es": "Juegos",
             "fr": "Jeux",
             "tr": "Oyunlar",
-            "sv": "Spel"
+            "sv": "Spel",
+            "pt": "Jogos"
         }
     },
     {
@@ -2975,7 +3305,8 @@
             "es": "Tres en Raya",
             "fr": "Morpion",
             "tr": "SOS Oyunu",
-            "sv": "Tic Tac Toe"
+            "sv": "Tic Tac Toe",
+            "pt": "Jogo da Velha"
         },
         "category": {
             "de": "Spiele",
@@ -2983,7 +3314,8 @@
             "es": "Juegos",
             "fr": "Jeux",
             "tr": "Oyunlar",
-            "sv": "Spel"
+            "sv": "Spel",
+            "pt": "Jogos"
         }
     },
     {
@@ -2993,7 +3325,8 @@
             "es": "Rompecabezas",
             "fr": "Puzzle",
             "tr": "Yapboz",
-            "sv": "Pussel"
+            "sv": "Pussel",
+            "pt": "Quebra-cabeça"
         },
         "category": {
             "de": "Spiele",
@@ -3001,7 +3334,8 @@
             "es": "Juegos",
             "fr": "Jeux",
             "tr": "Oyunlar",
-            "sv": "Spel"
+            "sv": "Spel",
+            "pt": "Jogos"
         }
     },
     {
@@ -3011,7 +3345,8 @@
             "es": "Memoria",
             "fr": "Mémoire",
             "tr": "Hafıza Oyunu",
-            "sv": "Memory"
+            "sv": "Memory",
+            "pt": "Jogo da Memória"
         },
         "category": {
             "de": "Spiele",
@@ -3019,7 +3354,8 @@
             "es": "Juegos",
             "fr": "Jeux",
             "tr": "Oyunlar",
-            "sv": "Spel"
+            "sv": "Spel",
+            "pt": "Jogos"
         }
     },
     {
@@ -3029,7 +3365,8 @@
             "es": "Montaña Rusa",
             "fr": "Montagnes Russes",
             "tr": "Hız Treni",
-            "sv": "Bergochdalbana"
+            "sv": "Bergochdalbana",
+            "pt": "Montanha-russa"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3037,7 +3374,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3047,7 +3385,8 @@
             "es": "Carrusel",
             "fr": "Carrousel",
             "tr": "Atlı Karınca",
-            "sv": "Karusell"
+            "sv": "Karusell",
+            "pt": "Carrossel"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3055,7 +3394,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3065,7 +3405,8 @@
             "es": "Noria",
             "fr": "Grande Roue",
             "tr": "D\u00f6nme Dolap",
-            "sv": "Parisehjul"
+            "sv": "Parisehjul",
+            "pt": "Roda-gigante"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3073,7 +3414,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3083,7 +3425,8 @@
             "es": "Montaña Acuática",
             "fr": "Bûches",
             "tr": "Su Kaydırağı",
-            "sv": "Log Flume"
+            "sv": "Log Flume",
+            "pt": "Toboágua"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3091,7 +3434,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3101,7 +3445,8 @@
             "es": "Casa Embrujada",
             "fr": "Maison Hantée",
             "tr": "Korku Evi",
-            "sv": "Sp\u00f6khus"
+            "sv": "Sp\u00f6khus",
+            "pt": "Casa Mal-assombrada"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3109,7 +3454,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3119,7 +3465,8 @@
             "es": "Coches de Choque",
             "fr": "Auto-Tamponneuses",
             "tr": "Çarpışan Arabalar",
-            "sv": "Radiobilar"
+            "sv": "Radiobilar",
+            "pt": "Carrinho Bate-bate"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3127,7 +3474,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3137,7 +3485,8 @@
             "es": "Torre de Caída",
             "fr": "Tour de Chute",
             "tr": "Serbest Düşüş Kulesi",
-            "sv": "Fritt fall"
+            "sv": "Fritt fall",
+            "pt": "Torre de Queda Livre"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3145,7 +3494,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3155,7 +3505,8 @@
             "es": "Algodón de Azúcar",
             "fr": "Barbe à Papa",
             "tr": "Pamuk Şeker",
-            "sv": "Sockervadd"
+            "sv": "Sockervadd",
+            "pt": "Algodão-doce"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3163,7 +3514,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3173,7 +3525,8 @@
             "es": "Tiro al Blanco",
             "fr": "Lancer de Boîtes",
             "tr": "Teneke Atma",
-            "sv": "Burkkast"
+            "sv": "Burkkast",
+            "pt": "Arremesso de Latas"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3181,7 +3534,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3191,7 +3545,8 @@
             "es": "Looping",
             "fr": "Looping",
             "tr": "D\u00f6nüş",
-            "sv": "Loop"
+            "sv": "Loop",
+            "pt": "Looping"
         },
         "category": {
             "de": "Freizeitpark",
@@ -3199,7 +3554,8 @@
             "es": "Parque de Atracciones",
             "fr": "Parc d'Attractions",
             "tr": "Lunapark",
-            "sv": "N\u00f6jesf\u00e4lt"
+            "sv": "N\u00f6jesf\u00e4lt",
+            "pt": "Parque de Diversões"
         }
     },
     {
@@ -3209,7 +3565,8 @@
             "es": "Fuegos artificiales",
             "fr": "Feux d'artifice",
             "tr": "Havai fişek",
-            "sv": "Fyrverkerier"
+            "sv": "Fyrverkerier",
+            "pt": "Fogos de artifício"
         },
         "category": {
             "de": "Silvester",
@@ -3217,7 +3574,8 @@
             "es": "Año Nuevo",
             "fr": "Réveillon",
             "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
+            "sv": "Ny\u00e5rsafton",
+            "pt": "Réveillon"
         }
     },
     {
@@ -3227,7 +3585,8 @@
             "es": "Champán",
             "fr": "Champagne",
             "tr": "Şampanya",
-            "sv": "Champagne"
+            "sv": "Champagne",
+            "pt": "Champanhe"
         },
         "category": {
             "de": "Silvester",
@@ -3235,7 +3594,8 @@
             "es": "Año Nuevo",
             "fr": "Réveillon",
             "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
+            "sv": "Ny\u00e5rsafton",
+            "pt": "Réveillon"
         }
     },
     {
@@ -3245,7 +3605,8 @@
             "es": "Fundir plomo",
             "fr": "Tirage de plomb",
             "tr": "Kurşun d\u00f6kme",
-            "sv": "Blyh\u00e4ll"
+            "sv": "Blyh\u00e4ll",
+            "pt": "Adivinhação com chumbo"
         },
         "category": {
             "de": "Silvester",
@@ -3253,7 +3614,8 @@
             "es": "Año Nuevo",
             "fr": "Réveillon",
             "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
+            "sv": "Ny\u00e5rsafton",
+            "pt": "Réveillon"
         }
     },
     {
@@ -3263,7 +3625,8 @@
             "es": "Medianoche",
             "fr": "Minuit",
             "tr": "Gece yarısı",
-            "sv": "Midnatt"
+            "sv": "Midnatt",
+            "pt": "Meia-noite"
         },
         "category": {
             "de": "Silvester",
@@ -3271,7 +3634,8 @@
             "es": "Año Nuevo",
             "fr": "Réveillon",
             "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
+            "sv": "Ny\u00e5rsafton",
+            "pt": "Réveillon"
         }
     },
     {
@@ -3281,7 +3645,8 @@
             "es": "Trébol de la suerte",
             "fr": "Trèfle porte-bonheur",
             "tr": "Şans yoncası",
-            "sv": "Turkl\u00f6ver"
+            "sv": "Turkl\u00f6ver",
+            "pt": "Trevo da sorte"
         },
         "category": {
             "de": "Silvester",
@@ -3289,7 +3654,8 @@
             "es": "Año Nuevo",
             "fr": "Réveillon",
             "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
+            "sv": "Ny\u00e5rsafton",
+            "pt": "Réveillon"
         }
     },
     {
@@ -3299,7 +3665,8 @@
             "es": "Bengala",
             "fr": "Cierge magique",
             "tr": "Maytap",
-            "sv": "Tomtebloss"
+            "sv": "Tomtebloss",
+            "pt": "Faísca"
         },
         "category": {
             "de": "Silvester",
@@ -3307,7 +3674,8 @@
             "es": "Año Nuevo",
             "fr": "Réveillon",
             "tr": "Yılbaşı",
-            "sv": "Ny\u00e5rsafton"
+            "sv": "Ny\u00e5rsafton",
+            "pt": "Réveillon"
         }
     },
     {
@@ -3317,7 +3685,8 @@
             "es": "Playa",
             "fr": "Plage",
             "tr": "Plaj",
-            "sv": "Strand"
+            "sv": "Strand",
+            "pt": "Praia"
         },
         "category": {
             "de": "Urlaub",
@@ -3325,7 +3694,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3335,7 +3705,8 @@
             "es": "Hotel",
             "fr": "Hôtel",
             "tr": "Otel",
-            "sv": "Hotell"
+            "sv": "Hotell",
+            "pt": "Hotel"
         },
         "category": {
             "de": "Urlaub",
@@ -3343,7 +3714,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3353,7 +3725,8 @@
             "es": "Maleta",
             "fr": "Valise",
             "tr": "Bavul",
-            "sv": "Resv\u00e4ska"
+            "sv": "Resv\u00e4ska",
+            "pt": "Mala"
         },
         "category": {
             "de": "Urlaub",
@@ -3361,7 +3734,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3371,7 +3745,8 @@
             "es": "Aeropuerto",
             "fr": "Aéroport",
             "tr": "Havalimanı",
-            "sv": "Flygplats"
+            "sv": "Flygplats",
+            "pt": "Aeroporto"
         },
         "category": {
             "de": "Urlaub",
@@ -3379,7 +3754,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3389,7 +3765,8 @@
             "es": "Protector solar",
             "fr": "Crème solaire",
             "tr": "Güneş kremi",
-            "sv": "Solkr\u00e4m"
+            "sv": "Solkr\u00e4m",
+            "pt": "Protetor solar"
         },
         "category": {
             "de": "Urlaub",
@@ -3397,7 +3774,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3407,7 +3785,8 @@
             "es": "Piscina",
             "fr": "Piscine",
             "tr": "Yüzme havuzu",
-            "sv": "Pool"
+            "sv": "Pool",
+            "pt": "Piscina"
         },
         "category": {
             "de": "Urlaub",
@@ -3415,7 +3794,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3425,7 +3805,8 @@
             "es": "Postal",
             "fr": "Carte postale",
             "tr": "Kartpostal",
-            "sv": "Vykort"
+            "sv": "Vykort",
+            "pt": "Cartão-postal"
         },
         "category": {
             "de": "Urlaub",
@@ -3433,7 +3814,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3443,7 +3825,8 @@
             "es": "Arena",
             "fr": "Sable",
             "tr": "Kum",
-            "sv": "Sand"
+            "sv": "Sand",
+            "pt": "Areia"
         },
         "category": {
             "de": "Urlaub",
@@ -3451,7 +3834,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3461,7 +3845,8 @@
             "es": "Sombrilla",
             "fr": "Parasol",
             "tr": "Güneş şemsiyesi",
-            "sv": "Parasoll"
+            "sv": "Parasoll",
+            "pt": "Guarda-sol"
         },
         "category": {
             "de": "Urlaub",
@@ -3469,7 +3854,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3479,7 +3865,8 @@
             "es": "Cóctel",
             "fr": "Cocktail",
             "tr": "Kokteyl",
-            "sv": "Cocktail"
+            "sv": "Cocktail",
+            "pt": "Coquetel"
         },
         "category": {
             "de": "Urlaub",
@@ -3487,7 +3874,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3497,7 +3885,8 @@
             "es": "Bañador",
             "fr": "Short de bain",
             "tr": "Mayo",
-            "sv": "Badbyxor"
+            "sv": "Badbyxor",
+            "pt": "Sunga"
         },
         "category": {
             "de": "Urlaub",
@@ -3505,7 +3894,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3515,7 +3905,8 @@
             "es": "Gafas de sol",
             "fr": "Lunettes de soleil",
             "tr": "Güneş g\u00f6zlüğü",
-            "sv": "Solglas\u00f6gon"
+            "sv": "Solglas\u00f6gon",
+            "pt": "Óculos de sol"
         },
         "category": {
             "de": "Urlaub",
@@ -3523,7 +3914,8 @@
             "es": "Vacaciones",
             "fr": "Vacances",
             "tr": "Tatil",
-            "sv": "Semester"
+            "sv": "Semester",
+            "pt": "Férias"
         }
     },
     {
@@ -3533,14 +3925,16 @@
             "es": "Mar",
             "fr": "Mer",
             "tr": "Deniz",
-            "sv": "Havet"
+            "sv": "Havet",
+            "pt": "Mar"
         },
         "category": {
             "de": "Urlaub",
             "en": "Vacation",
             "es": "Vacaciones",
             "fr": "Vacances",
-            "tr": "Tatil"
+            "tr": "Tatil",
+            "pt": "Férias"
         }
     }
 ]

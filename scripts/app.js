@@ -85,7 +85,8 @@ $("#showWord").on("click", function () {
         || $(this).text() === i18n.messageStore.get("es", "game-show-word")
         || $(this).text() === i18n.messageStore.get("fr", "game-show-word")
         || $(this).text() === i18n.messageStore.get("sv", "game-show-word")
-        || $(this).text() === i18n.messageStore.get("tr", "game-show-word")) {
+        || $(this).text() === i18n.messageStore.get("tr", "game-show-word")
+        || $(this).text() === i18n.messageStore.get("pt", "game-show-word")) {
         $("#next-player").hide();
         $("#word").removeClass("text-bg-danger");
         $("#word").addClass("text-bg-light");
